@@ -1,5 +1,5 @@
 # LikeMe-Dogs
-![Likeme-Dogs](https://github.com/fagust1992/Likeme-Dogs/blob/master/public/img/likeme.jpg?raw=true "Likeme-Dogs")
+![Likeme-Dogs](https://github.com/fagust1992/likeme-dogs1/blob/master/public/img/likeme.jpg?raw=true")
 LikeMe-Dogs es una de aplicación web full-stack desarrollado utilizando Node.js. Este proyecto permite a los usuarios agregar y explorar información sobre diferentes razas de perros.
 
 ## Características
